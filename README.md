@@ -1,6 +1,12 @@
-## NOT MAINTAINED
+## MAYBE MAINTAINED
 
-This project is no longer maintained.
+The original project is no longer maintained, but
+
+Since I needed to have an AP and since someone else could use the code I'm writing,
+I figured out I could fork the original project into this one.
+
+I don't like to make promises that, most probably, I will not keep. If you find issues
+in this project open an issue and, hopefully, I shall work on fixing those.
 
 
 ## Forks and continuation of this project
